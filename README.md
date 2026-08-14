@@ -1,20 +1,24 @@
-# Eftakhar Amin Sakib
+<div align="center">
+
+  # Hey there, I'm Eftakhar Amin Sakib 
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=AI-Assisted+Full-Stack+Developer;Product+Builder+%26+Tech+Explorer;Self-Learner+Building+for+Impact)](https://git.io/typing-svg)
 
 Student. Self-learner. Builder.
-
+</div>
 I spend most of my time exploring different corners of tech — from full-stack development to AI agents to product design. I like building things that work, and I like it even more when they help someone.
 
-Right now, I'd describe myself as an **AI-assisted full-stack developer and product builder**. I don't just write code — I ship products, learn from the process, and keep iterating.
+Right now, I'd describe myself as an **AI-assisted full-stack developer and product builder**. I don't just write code by Ai — I ship products, learn from the process, and keep iterating.
 
 ---
 
 ### Things I've Built
 
 **[TTC Network](http://ttcnetwork.xyz)**
-A community platform for teachers, students, and alumni across all Government Teachers' Training Colleges in Bangladesh. Built to bring a scattered community into one place.
+A centralized, community-driven web platform designed specifically to connect teachers, students, and alumni across all Government Teachers' Training Colleges (TTCs) in Bangladesh. 
 
 **[GoalFocus](https://apps.microsoft.com/detail/9MT61R00CLVS?hl=en-us&gl=US&ocid=pdpshare)**
-A free Windows app on the Microsoft Store that keeps your goals visible — always. Simple idea, but it works.
+ A free productivity app available on the Microsoft Store designed to keep your personal and professional targets constantly visible.
 
 **[Agent Aiyra](https://farcaster.xyz/agent-aiyra)**
 An autonomous AI agent that lives on Farcaster, a decentralized social network. She has her own personality, reads posts, and engages like a real user — not a chatbot.
@@ -33,8 +37,12 @@ A showcase platform for [poidh.xyz](https://poidh.xyz) — designed to cleanly p
 
 ### What I Work With
 
-JavaScript, TypeScript, HTML/CSS, Node.js, React, Next.js, Vercel, Git — and whatever else a project needs. I lean heavily on AI-assisted workflows and I'm comfortable picking up new tools as I go.
+JavaScript, TypeScript, HTML/CSS, Node.js, React, Next.js, Vercel, Git, and modern AI-assisted development workflows. I use AI tools strategically across development, design, research, debugging, and product building—choosing the right tools and models based on the needs of each project rather than being tied to a specific stack or platform.
+
+I build end-to-end products from idea to implementation, combining full-stack development, AI-assisted workflows, rapid prototyping, and product thinking.
+
+<sub>AI-Assisted Full-Stack Developer & Product Builder</sub>
 
 ---
 
-<sub>Building to learn. Learning to build.</sub>
+<sub>Building to learn, learning to build.</sub>
