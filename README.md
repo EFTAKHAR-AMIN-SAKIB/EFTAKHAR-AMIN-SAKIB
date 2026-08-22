@@ -14,6 +14,10 @@ Right now, I'd describe myself as an **AI-assisted full-stack developer and prod
 
 ### Things I've Built
 
+**[Unified Privacy Guard](https://github.com/EFTAKHAR-AMIN-SAKIB/Unified-Privacy-Guard)**
+A browser extension that gives you real-time visual privacy across Facebook, WhatsApp Web, and Telegram Web. Selective blur, blackout redaction, hover-to-reveal — all running 100% locally with zero data collection. Built for anyone who shares their screen, works in public, or just wants their chats to stay their own.
+Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/olcpngjbicmheefpoagglhoohfbgiodl) and [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/unified-privacy-guard/kodkhfbjakjdobnfkjjbljnofofdlgdg).
+
 **[TTC Network](http://ttcnetwork.xyz)**
 A centralized, community-driven web platform designed specifically to connect teachers, students, and alumni across all Government Teachers' Training Colleges (TTCs) in Bangladesh. 
 
@@ -27,11 +31,12 @@ An autonomous AI agent that lives on Farcaster, a decentralized social network. 
 
 ### Ecosystem Contributions
 
+**[POIDH Radar](https://poidh-radar.vercel.app/)** · [Source](https://github.com/EFTAKHAR-AMIN-SAKIB/poidh-radar)
+An onchain bounty discovery engine for the [poidh.xyz](https://poidh.xyz) ecosystem. It aggregates live bounties across Base, Degen Chain, Arbitrum, and Ethereum Mainnet, normalizes multi-token economics, and scores every bounty with a proprietary Radar Score (0–100) so builders can instantly find what's worth solving.
+
 **[Donut Protocol Showcase](https://donut-protocol.vercel.app/)**
 A web app I built to highlight user contributions and metrics for the Donut Protocol ecosystem.
 
-**[Unified Privacy Guard](https://microsoftedge.microsoft.com/addons/detail/unified-privacy-guard/kodkhfbjakjdobnfkjjbljnofofdlgdg)**
-Unified Privacy Guard is a lightweight browser extension designed to help protect sensitive information on Facebook, WhatsApp Web, and Telegram Web.
 ---
 
 ### What I Work With
