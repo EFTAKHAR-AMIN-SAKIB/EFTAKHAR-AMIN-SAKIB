@@ -30,9 +30,8 @@ An autonomous AI agent that lives on Farcaster, a decentralized social network. 
 **[Donut Protocol Showcase](https://donut-protocol.vercel.app/)**
 A web app I built to highlight user contributions and metrics for the Donut Protocol ecosystem.
 
-**Poidh Contribution Hub**
-A showcase platform for [poidh.xyz](https://poidh.xyz) — designed to cleanly present platform activity, verified proofs, and community impact.
-
+**[Unified Privacy Guard](https://microsoftedge.microsoft.com/addons/detail/unified-privacy-guard/kodkhfbjakjdobnfkjjbljnofofdlgdg)**
+Unified Privacy Guard is a lightweight browser extension designed to help protect sensitive information on Facebook, WhatsApp Web, and Telegram Web.
 ---
 
 ### What I Work With
