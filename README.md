@@ -14,12 +14,12 @@ Right now, I'd describe myself as an **AI-assisted full-stack developer and prod
 
 ### Things I've Built
 
+**[TTC Network](http://ttcnetwork.xyz)**
+A centralized, community-driven web platform designed specifically to connect teachers, students, and alumni across all Government Teachers' Training Colleges (TTCs) in Bangladesh. 
+
 **[Unified Privacy Guard](https://github.com/EFTAKHAR-AMIN-SAKIB/Unified-Privacy-Guard)**
 A browser extension that gives you real-time visual privacy across Facebook, WhatsApp Web, and Telegram Web. Selective blur, blackout redaction, hover-to-reveal — all running 100% locally with zero data collection. Built for anyone who shares their screen, works in public, or just wants their chats to stay their own.
 Available on the [Chrome Web Store](https://chromewebstore.google.com/detail/olcpngjbicmheefpoagglhoohfbgiodl) and [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/unified-privacy-guard/kodkhfbjakjdobnfkjjbljnofofdlgdg).
-
-**[TTC Network](http://ttcnetwork.xyz)**
-A centralized, community-driven web platform designed specifically to connect teachers, students, and alumni across all Government Teachers' Training Colleges (TTCs) in Bangladesh. 
 
 **[GoalFocus](https://apps.microsoft.com/detail/9MT61R00CLVS?hl=en-us&gl=US&ocid=pdpshare)**
  A free productivity app available on the Microsoft Store designed to keep your personal and professional targets constantly visible.
